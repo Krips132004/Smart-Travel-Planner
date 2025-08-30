@@ -42,7 +42,34 @@ Smart Travel Planner is a **JavaScript-based mini project** that helps users pla
 
 ---
 
-## 📂 Project Structure
+
+
+
+## 📷 Output Screenshots
+
+### 🖼️ Home Page
+![Screenshot 1](screenshots/Travel1.png)
+
+### 2
+![Screenshot 2](screenshots/TravelDestination1.png)
+
+### 3
+![Screenshot 3](screenshots/TravelDestination2.png)
+
+### 4
+![Screenshot 4](screenshots/TravelDestination3.png)
+
+### 5
+![Screenshot 5](screenshots/TravelBudget.png)
+
+
+### 6
+![Screenshot 6](screenshots/TravelDays.png)
+
+
+### 7
+![Screenshot 7](screenshots/Fianl_Plan.png)
+
 
 ---
 
@@ -62,6 +89,3 @@ Smart Travel Planner is a **JavaScript-based mini project** that helps users pla
 - **ES6 Features** → let, const, template literals, arrow functions  
 - **Conditional Statements** → budget, trip type, hotel type  
 
----
-
-## 📝 Example Output
