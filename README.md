@@ -48,27 +48,27 @@ Smart Travel Planner is a **JavaScript-based mini project** that helps users pla
 ## 📷 Output Screenshots
 
 ### 🖼️ Home Page
-![Screenshot 1](screenshots/Travel1.png)
+![Screenshot 1](Travel1.png)
 
 ### 2
-![Screenshot 2](screenshots/TravelDestination1.png)
+![Screenshot 2](TravelDestination1.png)
 
 ### 3
-![Screenshot 3](screenshots/TravelDestination2.png)
+![Screenshot 3](TravelDestination2.png)
 
 ### 4
-![Screenshot 4](screenshots/TravelDestination3.png)
+![Screenshot 4](TravelDestination3.png)
 
 ### 5
-![Screenshot 5](screenshots/TravelBudget.png)
+![Screenshot 5](TravelBudget.png)
 
 
 ### 6
-![Screenshot 6](screenshots/TravelDays.png)
+![Screenshot 6](TravelDays.png)
 
 
 ### 7
-![Screenshot 7](screenshots/Fianl_Plan.png)
+![Screenshot 7](Fianl_Plan.png)
 
 
 ---
